@@ -1,0 +1,10 @@
+{
+  "name": "zkprogram",
+  "binaryPath": "/home/ubuntu/fibonacci/zkprogram/target/riscv-guest/riscv32im-risc0-zkvm-elf/docker/zkprogram/zkprogram",
+  "imageId": "a7b2cd51504760f95ea0688cc83677530d7a21b4e09251946bff6ce24c43fcc6",
+  "inputOrder": [
+    "Public"
+  ],
+  "signature": "4mPNtrnLKBubbMdRHoomFkNEANCv2KN1ygqL3zsRMdL2GZ2yAn94fgY8XwMn4uW5sWHbJgnaZFiewCMg2B2eFU1Q",
+  "size": 133104
+}

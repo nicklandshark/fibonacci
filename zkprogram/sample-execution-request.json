@@ -1,0 +1,28 @@
+{
+    "imageId": "a7b2cd51504760f95ea0688cc83677530d7a21b4e09251946bff6ce24c43fcc6",
+    "executionConfig": {
+      "verifyInputHash": false,
+      "forwardOutput": true
+    },
+    "inputs": [
+      {
+        "inputType": "PublicData",
+        "data": "1024"
+      }
+    ],
+    "tip": 12000,
+    "expiry": 10000,
+    "callbackConfig": {
+      "programId": "39v8Th2UHZmynSdzCSfrC1sJWrTFSfGv9A18bmq2SX6V",
+      "instructionPrefix": [
+        100,
+        232,
+        102,
+        25,
+        65,
+        191,
+        8,
+        255
+      ]
+    }
+  }
